@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Interactive Love Story\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|D:\\Projects\\Interactive Love Story\\assets\\scripts\\toms\\tom control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\toms\\tom control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|d:\\projects\\interactive love story\\assets\\scripts\\event\\eventcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\event\\eventcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|D:\\Projects\\Interactive Love Story\\assets\\yandexgame\\workingdata\\savesyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\workingdata\\savesyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|D:\\Projects\\Interactive Love Story\\assets\\scripts\\player\\createnameforplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A747682F-3229-CCD9-017E-A6D932DD7487}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\createnameforplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tom Control.cs",
+              "DocumentMoniker": "D:\\Projects\\Interactive Love Story\\Assets\\Scripts\\Toms\\Tom Control.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Toms\\Tom Control.cs",
+              "ToolTip": "D:\\Projects\\Interactive Love Story\\Assets\\Scripts\\Toms\\Tom Control.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Toms\\Tom Control.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAA4AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:28:05.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateNameForPlayer.cs",
+              "DocumentMoniker": "D:\\Projects\\Interactive Love Story\\Assets\\Scripts\\Player\\CreateNameForPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CreateNameForPlayer.cs",
+              "ToolTip": "D:\\Projects\\Interactive Love Story\\Assets\\Scripts\\Player\\CreateNameForPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CreateNameForPlayer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:58:48.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavesYG.cs",
+              "DocumentMoniker": "D:\\Projects\\Interactive Love Story\\Assets\\YandexGame\\WorkingData\\SavesYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\WorkingData\\SavesYG.cs",
+              "ToolTip": "D:\\Projects\\Interactive Love Story\\Assets\\YandexGame\\WorkingData\\SavesYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\WorkingData\\SavesYG.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:58:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventControl.cs",
+              "DocumentMoniker": "D:\\Projects\\Interactive Love Story\\Assets\\Scripts\\Event\\EventControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Event\\EventControl.cs",
+              "ToolTip": "D:\\Projects\\Interactive Love Story\\Assets\\Scripts\\Event\\EventControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Event\\EventControl.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:16:06.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
